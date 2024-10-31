@@ -41,6 +41,7 @@ body{
     height: 108px;
     margin: 10px;
     border-radius: 5px;
+    text-align: center;
 }
 
 #input-el{
@@ -71,4 +72,16 @@ border: 2px solid #B295FF;
     font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 16px;
+}
+.units-name{
+    color: #CCC1FF;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+}
+
+.converted-para{
+font-family: "Inter", sans-serif;
+    color: white;
+    font-size: 14px;
+
 }
