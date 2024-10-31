@@ -55,17 +55,19 @@ body{
     font-weight: bolder;
     font-family: "Inter", sans-serif;
     text-align: center;
+    border: 1px solid #B295FF;
 }
 #input-el:hover{
-
-    outline: none;
-    border: none;
-}
-
-#input-el:active{
     border: 1px solid #B295FF;
     outline: none;
+    /*border: none;*/
 }
+
+
+/*#input-el:active{*/
+/*    border: 1px solid #B295FF;*/
+/*    outline: none;*/
+/*}*/
 
 #convert-btn{
     width: 117px;
