@@ -57,8 +57,9 @@ body{
     text-align: center;
 }
 #input-el:hover{
-border: 2px solid #B295FF;
+
     outline: none;
+    border: none;
 }
 
 #input-el:active{
