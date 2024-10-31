@@ -22,6 +22,7 @@ body{
     margin: 20px;
 }
 
+
 .div-flex{
     display: flex;
     flex-direction: column;
@@ -37,5 +38,13 @@ body{
 }
 
 #input-el{
+margin: 30px;
+    padding: 20px;
+}
 
+#convert-btn{
+    width: 117px;
+    height: 42px;
+    font-family: inter serif;
+    font-size: 16px;
 }
